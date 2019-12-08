@@ -12,4 +12,7 @@ Description:
 •	What is the average nightly price in each neighborhood in Boston?
 •	What factors will affect the price and popularity of the Airbnb in Boston?
 
+Publish:
+https://hoosierjiang.github.io/hoosierjiang.github.dashboard.io/
+
 Copyright ©| HTML5 | CSS3 | TABLEAU |By Siqi Jiang
