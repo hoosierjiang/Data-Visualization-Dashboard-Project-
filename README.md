@@ -13,6 +13,6 @@ Description:
 •	What factors will affect the price and popularity of the Airbnb in Boston?
 
 Publish:
-https://hoosierjiang.github.io/hoosierjiang.github.dashboard.io/
+https://hoosierjiang.github.io/hoosierjiang.github.dashboard.io/ and http://doi.org/10.5281/zenodo.3567140
 
 Copyright ©| HTML5 | CSS3 | TABLEAU |By Siqi Jiang
